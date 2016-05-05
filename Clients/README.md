@@ -1,3 +1,1 @@
-This sample shows various clients and the ways they can connect to identityserver.
-
-The samples are designed to work together with our [test host](https://github.com/IdentityServer/IdentityServer3)
+This project contains a simple JS client that is going to read from a secure API using access tokens issued by the Identity Server. 

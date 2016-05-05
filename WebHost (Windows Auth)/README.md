@@ -1,6 +1,8 @@
 Identity Server plus Windows Auth
 ======================================
 
-This code demonstrates how to protect a web API using Identity Server 3 plus Windows Authentication. All of the code is taken from the Identity server 3 samples page. I have just put the bits together and written a walkthrough for beginners like me.
+This project contains three projects:
 
-I am happy to accept comments and pull requests.
+1. WindowsAuthWebHost - This hosts the IdentityServer.WindowsAuthentication component, which converts windows tokens to identity tokens. 
+2. Web Host - An instance of IdentityServer3, which is configured to consume the above component via WS-Federation. 
+3. A sample web API, which we want to protect.
