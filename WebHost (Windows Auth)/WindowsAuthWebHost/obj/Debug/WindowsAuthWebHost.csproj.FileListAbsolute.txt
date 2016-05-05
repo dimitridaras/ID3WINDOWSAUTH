@@ -1,0 +1,13 @@
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\WebHost (Windows Auth)\WindowsAuthWebHost\bin\WindowsAuthWebHost.dll.config
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\WebHost (Windows Auth)\WindowsAuthWebHost\bin\WindowsAuthWebHost.dll
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\WebHost (Windows Auth)\WindowsAuthWebHost\bin\WindowsAuthWebHost.pdb
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\WebHost (Windows Auth)\WindowsAuthWebHost\bin\IdentityServer.WindowsAuthentication.dll
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\WebHost (Windows Auth)\WindowsAuthWebHost\bin\Microsoft.Owin.dll
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\WebHost (Windows Auth)\WindowsAuthWebHost\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\WebHost (Windows Auth)\WindowsAuthWebHost\bin\Owin.dll
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\WebHost (Windows Auth)\WindowsAuthWebHost\bin\IdentityServer.WindowsAuthentication.pdb
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\WebHost (Windows Auth)\WindowsAuthWebHost\bin\IdentityServer.WindowsAuthentication.xml
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\WebHost (Windows Auth)\WindowsAuthWebHost\bin\Microsoft.Owin.xml
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\WebHost (Windows Auth)\WindowsAuthWebHost\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\WebHost (Windows Auth)\WindowsAuthWebHost\obj\Debug\WindowsAuthWebHost.dll
+C:\Miscellaneous\Data\Training\ID3WINDOWSAUTH\WebHost (Windows Auth)\WindowsAuthWebHost\obj\Debug\WindowsAuthWebHost.pdb
