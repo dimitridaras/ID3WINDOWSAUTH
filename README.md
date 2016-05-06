@@ -4,6 +4,8 @@ This code demonstrates how to protect a web API using Identity Server 3 plus Win
 
 ### Links
 
+Walkthrough on my [blog](http://blog.rogue-code.org/identity-server-3-plus-windows-authentication/)
+
 Identity Server [github](https://github.com/IdentityServer/IdentityServer3)
 
 Identity server samples [github](https://github.com/IdentityServer/IdentityServer3.Samples)
